@@ -1,0 +1,25 @@
+{
+  "name": "blend_list",
+  "version": "1.0.0",
+  "description": "A bare-bones web app based on NodeJS, MySQL and ExpressJS representing a mailing list of multiple users utilizing the fakerJS framework.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "NodeJS",
+    "MySQL",
+    "ExpressJS",
+    "JavaScript",
+    "FakerJS"
+  ],
+  "author": "Piyush Malhotra",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.19.1",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "faker": "^5.5.3",
+    "mysql": "^2.18.1"
+  }
+}
